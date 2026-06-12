@@ -51,9 +51,8 @@ Complaint_Classifier/
 ├── refined_model.pkl
 ├── vectorizer.pkl
 ├── requirements.txt
-├── complaint_classifier/
-│   └── templates/
-│       └── index.html
+├── templates/
+│   └── index.html
 └── README.md
 ```
 
@@ -147,4 +146,3 @@ AI Response: Thank you. We are processing your request.
 ## 📜 License
 
 This project is for educational and learning purposes.
-```
